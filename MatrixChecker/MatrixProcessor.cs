@@ -76,7 +76,7 @@ public class MatrixProcessor
 
         return (int)result;
     }
-
+    //gg
     float[,]? MatrixDecompose(int[,] matrix, out int[] perm, out int toggle)
     {
         // Doolittle LUP decomposition with partial pivoting.
